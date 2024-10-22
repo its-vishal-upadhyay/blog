@@ -1,0 +1,14 @@
+.layout-menu{
+    display: flex;
+}
+.layout-menu h4{
+    text-decoration: none;
+    margin: 0;
+}
+.layout-menu li{
+    margin-left: 25px;
+    list-style-type: none;
+}
+.layout-menu a{
+    text-decoration: none;
+}
